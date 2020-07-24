@@ -11,6 +11,8 @@ const router = express.Router();
 const defaultIndex = path.join(__dirname, '..', 'static', 'index.html');
 const outputFile = config.outputFile;
 
+router.get('/', (req, res) => res.sendFile(defaultIndex));
+router.get('/generate', (req, res) => generate().then(response => res.json(response)));
 router.get('/track-list/:format?', (req, res) => {
 	if (req.query && req.query.format && req.query.format === 'xspf') {
 		sendFile(outputFile, 'xspf', res);
@@ -18,13 +20,11 @@ router.get('/track-list/:format?', (req, res) => {
 		sendFile(outputFile, 'json', res);
 	}
 });
-router.get('/generate', (req, res) => generate().then(response => res.json(response)));
-router.get('/', (req, res) => res.sendFile(defaultIndex));
 
 app.disable('x-powered-by');
-app.use('/', express.static(path.join(__dirname, '..', 'static')))
 app.use(`/.netlify/functions/server`, router);
-app.get('/', (req, res) => res.sendFile(defaultIndex));
+app.use('/', express.static(path.join(__dirname, '..', 'static')))
+app.use('/', (req, res) => res.sendFile(defaultIndex));
 
 app.use((req, res) => {
 	res.status(404);
