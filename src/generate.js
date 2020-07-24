@@ -35,12 +35,10 @@ function generate() {
 				Promise.all(stationDataPromises).then(stationsData => {
 					const tracks = generateTracks(stationsData.filter(Boolean));
 					Promise.all([generatePlaylist(tracks), generatePlaylistJSON(tracks)])
-						.then(([xspf, json]) => {
+						.then(() => {
 							returnObject.ok = true;
 							returnObject.description = `Playlists saved to: ${outputFile}.(json|xspf)`;
 							returnObject.playlists = [`${outputFile}.json`, `${outputFile}.xspf`]
-							returnObject.json = json;
-							returnObject.xspf = xspf;
 							resolve(returnObject);
 						})
 						.catch(error => {
@@ -111,9 +109,7 @@ function generatePlaylistJSON(tracks) {
 		})
 	};
 
-	return JSON.stringify(data);
-
-	// return fs.writeFile(`${outputFile}.json`, JSON.stringify(data));
+	return fs.writeFile(`${outputFile}.json`, JSON.stringify(data));
 }
 
 function generatePlaylist(tracks) {
@@ -133,9 +129,7 @@ function generatePlaylist(tracks) {
 	</trackList>
 </playlist>`;
 
-	return data;
-
-	// return fs.writeFile(`${outputFile}.xspf`, data);
+	return fs.writeFile(`${outputFile}.xspf`, data);
 }
 
 function fetchJson(url, options = {}) {
