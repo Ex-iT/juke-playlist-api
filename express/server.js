@@ -1,22 +1,58 @@
 'use strict';
 const express = require('express');
-const path = require('path');
 const serverless = require('serverless-http');
+const path = require('path');
+const fs = require('fs-extra');
+const config = require('../src/config');
+const generate = require('../src/generate');
+
 const app = express();
-const bodyParser = require('body-parser');
-
 const router = express.Router();
-router.get('/', (req, res) => {
-  res.writeHead(200, { 'Content-Type': 'text/html' });
-  res.write('<h1>Hello from Express.js!</h1>');
-  res.end();
-});
-router.get('/another', (req, res) => res.json({ route: req.originalUrl }));
-router.post('/', (req, res) => res.json({ postBody: req.body }));
+const defaultIndex = path.join(__dirname, '..', 'public', 'index.html');
+const outputFile = config.outputFile;
 
-app.use(bodyParser.json());
-app.use('/.netlify/functions/server', router);  // path must route to lambda
-app.use('/', (req, res) => res.sendFile(path.join(__dirname, '../index.html')));
+router.get('/track-list/:format?', (req, res) => {
+	if (req.query && req.query.format && req.query.format === 'xspf') {
+		sendFile(outputFile, 'xspf', res);
+	} else {
+		sendFile(outputFile, 'json', res);
+	}
+});
+router.get('/generate', (req, res) => generate().then(response => res.json(response)));
+
+app.disable('x-powered-by');
+app.use('/', express.static(path.join(__dirname, '..', 'public')))
+app.use(`/.netlify/functions/server`, router);
+app.get('/', (req, res) => res.sendFile(defaultIndex));
+
+app.use((req, res) => {
+	res.status(404);
+
+	res.format({
+		html: function () {
+			res.send('Not found');
+		},
+		json: function () {
+			res.json({ ok: false, description: 'Not found', error: 404 });
+		},
+		default: function () {
+			res.type('txt').send('Not found');
+		}
+	})
+});
+
+function sendFile(filename, extension, res) {
+	const fullFilename = `${filename}.${extension}`;
+	if (fs.existsSync(fullFilename)) {
+		if (extension === 'xspf') {
+			res.download(fullFilename, fullFilename);
+		} else {
+			res.sendFile(fullFilename);
+		}
+	} else {
+		res.json({ ok: false, description: `File not found: ${fullFilename}` });
+	}
+}
 
 module.exports = app;
 module.exports.handler = serverless(app);

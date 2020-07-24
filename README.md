@@ -1,22 +1,28 @@
-# Express.js on Netlify Example
+# JUKE.nl Playlist generator
 
-[![Netlify
-Status](https://api.netlify.com/api/v1/badges/9aaef7de-1e5d-4fda-bc39-faa10a68b35b/deploy-status)](https://app.netlify.com/sites/netlify-express/deploys)
+Endpoint to return the Juke Playlist as JSON or as an XSPF file.
 
-[![Deploy to
-Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/neverendingqs/netlify-express)
+## Usage
 
-An example of how to host an Express.js app on Netlify using
-[serverless-http](https://github.com/dougmoscrop/serverless-http). See
-[express/server.js](express/server.js) for details, or check it out at
-https://netlify-express.netlify.com/!
+Install dependencies with `npm install` and run:
 
-[index.html](index.html) simply loads html from the Express.js app using
-`<object>`, and the app is hosted at `/.netlify/functions/server`. Examples of
-how to access the Express.js endpoints:
-
-```sh
-curl https://netlify-express.netlify.com/.netlify/functions/server
-curl https://netlify-express.netlify.com/.netlify/functions/server/another
-curl --header "Content-Type: application/json" --request POST --data '{"json":"POST"}' https://netlify-express.netlify.com/.netlify/functions/server
 ```
+$ npm run build
+```
+
+## Endpoints
+
+- `/.netlify/functions/server/track-list/` returns the track list as JSON
+- `/.netlify/functions/server/track-list/?format=xspf` returns the XSPF file as a download
+- `/.netlify/functions/server/generate/` (re)generates the JSON and XSPF files
+
+
+## Development
+
+Install dependencies with `npm install` and run:
+
+```
+$ npm start
+```
+
+This will start a server on `http://localhost:3000/` and a [nodemon](https://nodemon.io/) watcher for the `src/` folder.
