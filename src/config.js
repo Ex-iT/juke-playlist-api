@@ -4,7 +4,7 @@ module.exports = {
 	port: 3000,
 	filename: 'juke-stations',
 	jukeProfile: 'juke-web',
-	outputFile: process.env.LAMBDA_TASK_ROOT ? path.resolve(process.env.LAMBDA_TASK_ROOT, 'static', 'juke-stations') : path.join(__dirname, '..', 'static', 'juke-stations'),
+	outputFile: process.env.LAMBDA_TASK_ROOT ? path.resolve(process.env.LAMBDA_TASK_ROOT, './juke-stations') : path.join(__dirname, '..', 'static', 'juke-stations'),
 	apiKey: 'da2-evfzzjsvjjhy3isb6ursfis2ue',
 	urlStations: `https://static.juke.nl/content/stations.json?preventCache=${new Date().getTime()}`,
 	urlStationBase: 'https://graph.talparad.io/',
