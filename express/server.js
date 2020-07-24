@@ -19,6 +19,7 @@ router.get('/track-list/:format?', (req, res) => {
 	}
 });
 router.get('/generate', (req, res) => generate().then(response => res.json(response)));
+router.get('/', (req, res) => res.sendFile(defaultIndex));
 
 app.disable('x-powered-by');
 app.use('/', express.static(path.join(__dirname, '..', 'static')))
