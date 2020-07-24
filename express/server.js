@@ -8,7 +8,7 @@ const generate = require('../src/generate');
 
 const app = express();
 const router = express.Router();
-const defaultIndex = process.env.LAMBDA_TASK_ROOT ? path.resolve(process.env.LAMBDA_TASK_ROOT, './server/index.html') : path.resolve(__dirname, '..', 'static', 'index.html');
+const defaultIndex = process.env.LAMBDA_TASK_ROOT ? path.resolve(process.env.LAMBDA_TASK_ROOT, './server/static/index.html') : path.resolve(__dirname, '..', 'express', 'static', 'index.html');
 const outputFile = config.outputFile;
 
 router.get('/', (req, res) => res.sendFile(defaultIndex));
