@@ -8,7 +8,7 @@ const generate = require('../src/generate');
 
 const app = express();
 const router = express.Router();
-const defaultIndex = process.env.LAMBDA_TASK_ROOT ? path.resolve(process.env.LAMBDA_TASK_ROOT, './server/index.html') : path.resolve(__dirname, '..', 'server', 'index.html');
+const defaultIndex = process.env.LAMBDA_TASK_ROOT ? path.resolve(process.env.LAMBDA_TASK_ROOT, './static/index.html') : path.resolve('./static/index.html');
 const outputFile = config.outputFile;
 
 router.get('/', (req, res) => res.sendFile(defaultIndex));
@@ -22,7 +22,7 @@ router.get('/track-list/:format?', (req, res) => {
 });
 
 app.disable('x-powered-by');
-app.use('/', express.static(path.join(__dirname, '..', 'static')));
+app.use('/.netlify/functions/server', express.static(path.join(__dirname, '..', 'static')));
 app.use(`/.netlify/functions/server`, router);
 app.use('/', (req, res) => res.sendFile(defaultIndex));
 
