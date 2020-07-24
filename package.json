@@ -4,8 +4,8 @@
   "description": "Endpoint to return the Juke Playlist as JSON or as an XSPF file.",
   "main": "functions/server.js",
   "scripts": {
-    "build": "netlify-lambda build express",
-    "start": "nodemon --watch src/ --watch express/ --watch public/ ./src/server-local.js"
+    "build": "netlify-lambda build server",
+    "start": "nodemon --watch src/ --watch server/ --watch public/ ./src/server-local.js"
   },
   "repository": {
     "type": "git",
