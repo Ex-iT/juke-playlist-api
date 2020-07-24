@@ -8,7 +8,7 @@ const generate = require('../src/generate');
 
 const app = express();
 const router = express.Router();
-const defaultIndex = path.join(__dirname, '..', 'public', 'index.html');
+const defaultIndex = path.join(__dirname, '..', 'static', 'index.html');
 const outputFile = config.outputFile;
 
 router.get('/track-list/:format?', (req, res) => {
@@ -21,7 +21,7 @@ router.get('/track-list/:format?', (req, res) => {
 router.get('/generate', (req, res) => generate().then(response => res.json(response)));
 
 app.disable('x-powered-by');
-app.use('/', express.static(path.join(__dirname, '..', 'public')))
+app.use('/', express.static(path.join(__dirname, '..', 'static')))
 app.use(`/.netlify/functions/server`, router);
 app.get('/', (req, res) => res.sendFile(defaultIndex));
 
