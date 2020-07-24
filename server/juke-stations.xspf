@@ -1,0 +1,1359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	<title>JUKE.nl Stations</title>
+	<creator>JUKE Playlist Generator</creator>
+	<info>https://github.com/Ex-iT/</info>
+	<date>2020-07-24T21:57:45.437Z</date>
+	<trackList>
+		<track>
+			<title>100% NL</title>
+			<info>Luister 100% NL in JUKE! De beste muziek van Nederland. Op werkdagen luister je de ochtendshow met Lars of de middag Koen Hansen en De Barry Paf Show. </info>
+			<image>https://images.ctfassets.net/avx85g85supt/1Dtye7vNGN2V6gS4xU1jdq/70c8c669104f936281c750cfa1922c2d/logo_FC_100_NL.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/100PNL_MP3_SC</location>
+		</track>
+		<track>
+			<title>100% NL Feest</title>
+			<info>Feest</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1Dtye7vNGN2V6gS4xU1jdq/70c8c669104f936281c750cfa1922c2d/logo_FC_100_NL.png</image>
+			<location>https://stream.100p.nl/web01_mp3</location>
+		</track>
+		<track>
+			<title>100% NL Liefde</title>
+			<info>Liefde</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1Dtye7vNGN2V6gS4xU1jdq/70c8c669104f936281c750cfa1922c2d/logo_FC_100_NL.png</image>
+			<location>https://stream.100p.nl/web03_mp3</location>
+		</track>
+		<track>
+			<title>100% NL Nederpop</title>
+			<info>Nederpop</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1Dtye7vNGN2V6gS4xU1jdq/70c8c669104f936281c750cfa1922c2d/logo_FC_100_NL.png</image>
+			<location>https://stream.100p.nl/web04_mp3</location>
+		</track>
+		<track>
+			<title>100% NL Non-stop</title>
+			<info>Non-stop</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1Dtye7vNGN2V6gS4xU1jdq/70c8c669104f936281c750cfa1922c2d/logo_FC_100_NL.png</image>
+			<location>https://stream.100p.nl/web02_mp3</location>
+		</track>
+		<track>
+			<title>100% NL Puur</title>
+			<info>Puur</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1Dtye7vNGN2V6gS4xU1jdq/70c8c669104f936281c750cfa1922c2d/logo_FC_100_NL.png</image>
+			<location>http://20103.live.streamtheworld.com/WEB06_MP3_SC?</location>
+		</track>
+		<track>
+			<title>40UP Radio</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://40upstream.live-streams.nl/40up1</location>
+		</track>
+		<track>
+			<title>80s Hitradio</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://s22.myradiostream.com:7728/listen.mp3</location>
+		</track>
+		<track>
+			<title>AccentFM</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://caster02.streampakket.com:8091/high</location>
+		</track>
+		<track>
+			<title>Alfa Radio</title>
+			<info>Luister Alfa Radio in JUKE!</info>
+			<image>https://images.ctfassets.net/avx85g85supt/5lyUQGZsvNHszveVOKDYqZ/1385833fc224992752bf3e85d7b01d43/Juke_tiles_station_Provincie_Drenthe.jpg</image>
+			<location>http://luistermee.alfaradio.nl:8732/stream?type=http&amp;nocache=620945</location>
+		</track>
+		<track>
+			<title>AMW: Amsterdams Most Wanted</title>
+			<info>AMW</info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://stream.amw.fm:8000/;</location>
+		</track>
+		<track>
+			<title>Arrow Caz</title>
+			<info>Arrow Caz</info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>https://stream.arrowcaz.nl/caz128kmp3</location>
+		</track>
+		<track>
+			<title>Arrow Classic Rock</title>
+			<info>Arrow Classic Rock</info>
+			<image>https://images.ctfassets.net/avx85g85supt/6mEo82wsGd4hqGFxlCnMit/49188f52edf006cad3c0a6daee119aa1/Juke_tiles_station_Arrow_Classic_Rock.png</image>
+			<location>https://stream.gal.io/arrow?1579873649949</location>
+		</track>
+		<track>
+			<title>BBC Radio 1</title>
+			<info>Radio 1</info>
+			<image>https://images.ctfassets.net/avx85g85supt/4DOdJTa0f8Dh4DModgdD5j/94401c9d60348fae884869c98eb495a8/BBC_Radio_logo.svg.png</image>
+			<location>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_q</location>
+		</track>
+		<track>
+			<title>BBC Radio 2</title>
+			<info>Radio 2</info>
+			<image>https://images.ctfassets.net/avx85g85supt/4DOdJTa0f8Dh4DModgdD5j/94401c9d60348fae884869c98eb495a8/BBC_Radio_logo.svg.png</image>
+			<location>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_q</location>
+		</track>
+		<track>
+			<title>BBC Radio 3</title>
+			<info>Radio 3</info>
+			<image>https://images.ctfassets.net/avx85g85supt/4DOdJTa0f8Dh4DModgdD5j/94401c9d60348fae884869c98eb495a8/BBC_Radio_logo.svg.png</image>
+			<location>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_q</location>
+		</track>
+		<track>
+			<title>BBC Radio 4</title>
+			<info>Radio 4</info>
+			<image>https://images.ctfassets.net/avx85g85supt/4DOdJTa0f8Dh4DModgdD5j/94401c9d60348fae884869c98eb495a8/BBC_Radio_logo.svg.png</image>
+			<location>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p</location>
+		</track>
+		<track>
+			<title>BBC Radio 5 Live</title>
+			<info>Radio 5 Live</info>
+			<image>https://images.ctfassets.net/avx85g85supt/4DOdJTa0f8Dh4DModgdD5j/94401c9d60348fae884869c98eb495a8/BBC_Radio_logo.svg.png</image>
+			<location>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_q</location>
+		</track>
+		<track>
+			<title>BBC Radio 6 Music</title>
+			<info>Radio 6 Music</info>
+			<image>https://images.ctfassets.net/avx85g85supt/4DOdJTa0f8Dh4DModgdD5j/94401c9d60348fae884869c98eb495a8/BBC_Radio_logo.svg.png</image>
+			<location>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_q</location>
+		</track>
+		<track>
+			<title>BBC World Service</title>
+			<info>World Service</info>
+			<image>https://images.ctfassets.net/avx85g85supt/4DOdJTa0f8Dh4DModgdD5j/94401c9d60348fae884869c98eb495a8/BBC_Radio_logo.svg.png</image>
+			<location>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws</location>
+		</track>
+		<track>
+			<title>Bestehits.nl</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>https://luister.bestehits.nl/stream96</location>
+		</track>
+		<track>
+			<title>Bingo FM</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/5hA1sBihgpwL4DXvt2RN3u/3627080b4fde7033228125d427dbbf25/Utrecht.png</image>
+			<location>https://media.rtvutrecht.nl/bingofm-bb-mp3</location>
+		</track>
+		<track>
+			<title>BNR</title>
+			<info>Altijd op de hoogte van het laatste nieuws met BNR Nieuwsradio in JUKE.</info>
+			<image>https://images.ctfassets.net/avx85g85supt/6DHkETcOdKlrrrNQPFUtnc/f14798c408b9af819419642c9a92df52/Juke_tiles_station_BNR.png</image>
+			<location>https://icecast-bnr-cdp.triple-it.nl/bnr_mp3_128_03</location>
+		</track>
+		<track>
+			<title>BrightFM NL</title>
+			<info>NL</info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://str1.hollanddata.eu:8000/;</location>
+		</track>
+		<track>
+			<title>BrightFM Plus</title>
+			<info>Plus</info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://str1.hollanddata.eu:8006/;</location>
+		</track>
+		<track>
+			<title>C-Dance RETRO</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://198.100.145.187:18304/;</location>
+		</track>
+		<track>
+			<title>Candlelight</title>
+			<info>Candlelight</info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://playerservices.streamtheworld.com/api/livestream-redirect/CANDLELIGHTAAC.aac</location>
+		</track>
+		<track>
+			<title>Capital FM</title>
+			<info>Capital FM luister je in JUKE!</info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://media-ice.musicradio.com/CapitalMP3</location>
+		</track>
+		<track>
+			<title>Christmas FM</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/4g8L0KF5I901mYsGbhF5hm/fc4b2fa8386fb495110f15398141f853/iStock-883666876.jpg</image>
+			<location>http://ice31.securenetsystems.net/XMASFMM</location>
+		</track>
+		<track>
+			<title>classicnl</title>
+			<info>classicnl luister je in JUKE!</info>
+			<image>https://images.ctfassets.net/avx85g85supt/3HRDXblPdEOLv361kiKaZu/fccf76ca4935eab9c95c841152c0f333/Classic_NL.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/CLASSICFM.mp3</location>
+		</track>
+		<track>
+			<title>classicnl mind out</title>
+			<info>mind out</info>
+			<image>https://images.ctfassets.net/avx85g85supt/3HRDXblPdEOLv361kiKaZu/fccf76ca4935eab9c95c841152c0f333/Classic_NL.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR25.mp3</location>
+		</track>
+		<track>
+			<title>classicnl opera</title>
+			<info>opera</info>
+			<image>https://images.ctfassets.net/avx85g85supt/3HRDXblPdEOLv361kiKaZu/fccf76ca4935eab9c95c841152c0f333/Classic_NL.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR27.mp3</location>
+		</track>
+		<track>
+			<title>Concertzender: Filmmuziek</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>https://streams.greenhost.nl:8006/film</location>
+		</track>
+		<track>
+			<title>Concertzender: Folk It!</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://streams.greenhost.nl:8080/folkit</location>
+		</track>
+		<track>
+			<title>Concertzender: Jazz</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://streams.greenhost.nl:8080/jazz</location>
+		</track>
+		<track>
+			<title>Concertzender: Klassiek</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://streams.greenhost.nl:8080/klassiek</location>
+		</track>
+		<track>
+			<title>Cool Dance Radio</title>
+			<info>Cool Dance Radio luister je in JUKE</info>
+			<image>https://images.ctfassets.net/avx85g85supt/7a3HA61grR8hZlv3xCFeny/4819a48ff7ebd16767b213524d0c9ac8/cool_dance_radio_logo_white.png</image>
+			<location>https://stream.cooldanceradio.com/stream1/stream.mp3</location>
+		</track>
+		<track>
+			<title>De Veluwsepiraten</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://server-26.stream-server.nl:8624/;stream.mp3</location>
+		</track>
+		<track>
+			<title>DeBluesRadio (DBR)</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>https://streamingv2.shoutcast.com/DeBluesRadio</location>
+		</track>
+		<track>
+			<title>Deep Radio</title>
+			<info>Deep Radio</info>
+			<image>https://images.ctfassets.net/avx85g85supt/IUpkfrz5EmjYh92OMpkJo/433becf23b6913cc0eee07f597952c89/Deep_Radio.png</image>
+			<location>http://playerservices.streamtheworld.com/api/livestream-redirect/DEEP_RADIOAAC.aac</location>
+		</track>
+		<track>
+			<title>Disco Classic Radio</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>https://cc6.beheerstream.com/8742/stream</location>
+		</track>
+		<track>
+			<title>Dolfijn FM</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/5nfjN0QAtXavXabnL9Sd9D/2d0ffe764c66c471e8009259f897a0e5/shutterstock_1201358575.jpg</image>
+			<location>http://85.214.231.253:8080/stream.mp3</location>
+		</track>
+		<track>
+			<title>Efteling Kids Radio</title>
+			<info>Efteling Kids Radio</info>
+			<image>https://images.ctfassets.net/avx85g85supt/2wSlBgDMJtYAkBtZwgKZPJ/8b2e63e4864ba538333f398d634456ac/Juke_tiles_station_Efteling_Kids_Radio.png</image>
+			<location>http://ice.cr2.streamzilla.xlcdn.com:8000/sz=efteling=hdstream</location>
+		</track>
+		<track>
+			<title>Freeminded FM</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://freemindedfmstream.nl/;</location>
+		</track>
+		<track>
+			<title>Freez FM</title>
+			<info>Freez</info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>https://stream.freezfm.nl/freezfm</location>
+		</track>
+		<track>
+			<title>Frysk FM</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/3PuLAmckkcBCTp93XEyy20/49e68522c0f3d7ad82a168f28255507a/Leeuwarden.png</image>
+			<location>https://stream.frysk.fm/fryskfm</location>
+		</track>
+		<track>
+			<title>FunX</title>
+			<info>Het beste van FunX en alle themazenders hoor je in JUKE. </info>
+			<image>https://images.ctfassets.net/avx85g85supt/1UGO88XtlyBa1yU6xfnjG1/23317366b6f24ab79bd48ff8029b3973/funx_logo.png</image>
+			<location>https://icecast.omroep.nl/funx-sb-mp3</location>
+		</track>
+		<track>
+			<title>FunX Arab</title>
+			<info>Arab</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1UGO88XtlyBa1yU6xfnjG1/23317366b6f24ab79bd48ff8029b3973/funx_logo.png</image>
+			<location>http://icecast.omroep.nl/funx-arab-bb-mp3</location>
+		</track>
+		<track>
+			<title>FunX Dance</title>
+			<info>Dance</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1UGO88XtlyBa1yU6xfnjG1/23317366b6f24ab79bd48ff8029b3973/funx_logo.png</image>
+			<location>http://icecast.omroep.nl/funx-dance-bb-mp3</location>
+		</track>
+		<track>
+			<title>FunX Hip Hop</title>
+			<info>Hip Hop</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1UGO88XtlyBa1yU6xfnjG1/23317366b6f24ab79bd48ff8029b3973/funx_logo.png</image>
+			<location>https://icecast.omroep.nl/funx-hiphop-sb-aac</location>
+		</track>
+		<track>
+			<title>FunX Latin</title>
+			<info>Latin</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1UGO88XtlyBa1yU6xfnjG1/23317366b6f24ab79bd48ff8029b3973/funx_logo.png</image>
+			<location>https://icecast.omroep.nl/funx-latin-sb-aac</location>
+		</track>
+		<track>
+			<title>FunX Reggae</title>
+			<info>Reggae</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1UGO88XtlyBa1yU6xfnjG1/23317366b6f24ab79bd48ff8029b3973/funx_logo.png</image>
+			<location>https://icecast.omroep.nl/funx-reggae-sb-aac</location>
+		</track>
+		<track>
+			<title>FunX Slow Jamz</title>
+			<info>Slow Jamz</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1UGO88XtlyBa1yU6xfnjG1/23317366b6f24ab79bd48ff8029b3973/funx_logo.png</image>
+			<location>http://icecast.omroep.nl/funx-slowjamz-bb-mp3</location>
+		</track>
+		<track>
+			<title>Glow FM</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/2Di2J9Zbzx8xiUcD6ABBmo/fba115b9c2b4f6bb7f31f4f3f0671e03/Noord_Holland.png</image>
+			<location>https://stream.glowfm.nl/glowfm.mp3</location>
+		</track>
+		<track>
+			<title>Gooisch Music</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://46.19.32.36:8000/;stream.mp3</location>
+		</track>
+		<track>
+			<title>Grand Prix Radio</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/4PQUZojBVIPujcB23dZz9e/412ddf95ddab32ab250bd7c4c9c4c857/GPR-Juke-Logo-KLEUR.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/GRAND_PRIX_RADIO.mp3</location>
+		</track>
+		<track>
+			<title>Groot Nieuws Radio</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://grootnieuwsradio.streampartner.nl:8000/live</location>
+		</track>
+		<track>
+			<title>Groot Nieuws Radio Non-stop</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://media04.streampartner.nl:8082/live</location>
+		</track>
+		<track>
+			<title>Hardcore Radio</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://shoutcast1.hardcoreradio.nl:9000/hcr.ogg</location>
+		</track>
+		<track>
+			<title>HardRadio</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/37Hc7jTP76Ueo1WxXU1Vs2/faaadcd0049f6d4904f82fde7f65b9fd/iStock-450516801.jpg</image>
+			<location>http://3634.cloudrad.io/stream/1/?extReferer=http%3a%2f%2fwww.hardradio.com%2fplayer.php3&amp;lang=ru-RU%2cru%3bq%3d0.8%2cen-US%3bq%3d0.6%2cen%3bq%3d0.4&amp;ad=radiono5</location>
+		</track>
+		<track>
+			<title>Hardstyle FM</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://92.222.36.40:8000/streamhigh</location>
+		</track>
+		<track>
+			<title>Havenstad Radio</title>
+			<info>Van 538 tot radio 2. Meer dan 100 radiozenders luister je op JUKE.nl</info>
+			<image>https://images.ctfassets.net/avx85g85supt/5DynbVwpDaEvZKoXzgNp1v/0ab7ff0965d58e031271b6ef1543bfda/Zuid_Holland.png</image>
+			<location>http://mediaserv33.live-streams.nl:8056/stream</location>
+		</track>
+		<track>
+			<title>Heart</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/1huTsohveO3FTdVnMaMNRA/ed00db3d72d0b6b7205060d419b48793/Heart.jpg</image>
+			<location>http://media-ice.musicradio.com/HeartUKMP3</location>
+		</track>
+		<track>
+			<title>Heart Extra</title>
+			<info>Extra</info>
+			<image>https://images.ctfassets.net/avx85g85supt/4yNdsdGr3dbAnpLWZfJgzn/63702636acee9c547d61dfcbb134b6b2/kerst_share.jpg</image>
+			<location>http://media-ice.musicradio.com/HeartextraMP3</location>
+		</track>
+		<track>
+			<title>Hits4you</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://tachyon.shoutca.st:8570/stream</location>
+		</track>
+		<track>
+			<title>Hollands Palet</title>
+			<info>Van 538 tot radio 2. Meer dan 100 radiozenders luister je op JUKE.nl</info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://mediaserv21.live-streams.nl:8061/stream</location>
+		</track>
+		<track>
+			<title>IndieXL</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://server-23.stream-server.nl:8438/streamTitle1=IndieXL</location>
+		</track>
+		<track>
+			<title>Intense Radio</title>
+			<info>Luister Intense Radio in JUKE! Met de beste dance, tech house en techno muziek.</info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>https://www.intenseradio.net/listen-mp3-aacp-opus-flac/</location>
+		</track>
+		<track>
+			<title>Intergalactic FM</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/5q3kk3XDjOXUNbODknT2JL/e2b64a5b10aae7e442da47e865274b49/Juke_tiles_station_JUKE_Intergalactic.jpg</image>
+			<location>http://radio.intergalactic.fm:80/1</location>
+		</track>
+		<track>
+			<title>Intergalactic FM: Disco Fetish</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/5q3kk3XDjOXUNbODknT2JL/e2b64a5b10aae7e442da47e865274b49/Juke_tiles_station_JUKE_Intergalactic.jpg</image>
+			<location>http://radio.intergalactic.fm:80/2</location>
+		</track>
+		<track>
+			<title>Intergalactic FM: Dream Machine</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/5q3kk3XDjOXUNbODknT2JL/e2b64a5b10aae7e442da47e865274b49/Juke_tiles_station_JUKE_Intergalactic.jpg</image>
+			<location>http://radio.intergalactic.fm:80/3</location>
+		</track>
+		<track>
+			<title>Joe</title>
+			<info>Non stop de beste classics hoor je op Joe via JUKE.nl. </info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_1_96.mp3</location>
+		</track>
+		<track>
+			<title>JUKE Cabaret</title>
+			<info>Cabaret</info>
+			<image>https://images.ctfassets.net/avx85g85supt/15awPnarNQt3zYuu0uJBU9/cce821bcb6a15ca73fdac570fa0005d1/logo_FC_JUKE.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPNET03.mp3</location>
+		</track>
+		<track>
+			<title>JUKE Hip Hop Classics</title>
+			<info>Hip Hop Classics</info>
+			<image>https://images.ctfassets.net/avx85g85supt/15awPnarNQt3zYuu0uJBU9/cce821bcb6a15ca73fdac570fa0005d1/logo_FC_JUKE.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPNET01.mp3</location>
+		</track>
+		<track>
+			<title>JUKE House Classics</title>
+			<info>House Classics</info>
+			<image>https://images.ctfassets.net/avx85g85supt/15awPnarNQt3zYuu0uJBU9/cce821bcb6a15ca73fdac570fa0005d1/logo_FC_JUKE.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPNET14.mp3</location>
+		</track>
+		<track>
+			<title>JUKE Levenslied</title>
+			<info>Levenslied</info>
+			<image>https://images.ctfassets.net/avx85g85supt/15awPnarNQt3zYuu0uJBU9/cce821bcb6a15ca73fdac570fa0005d1/logo_FC_JUKE.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPNET12.mp3</location>
+		</track>
+		<track>
+			<title>JUKE Nederpop</title>
+			<info>Nederpop</info>
+			<image>https://images.ctfassets.net/avx85g85supt/15awPnarNQt3zYuu0uJBU9/cce821bcb6a15ca73fdac570fa0005d1/logo_FC_JUKE.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPNET06.mp3</location>
+		</track>
+		<track>
+			<title>JUKE R&amp;B Classics</title>
+			<info>R&amp;B Classics</info>
+			<image>https://images.ctfassets.net/avx85g85supt/15awPnarNQt3zYuu0uJBU9/cce821bcb6a15ca73fdac570fa0005d1/logo_FC_JUKE.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPNET02.mp3</location>
+		</track>
+		<track>
+			<title>JUKE Zomer Lounge</title>
+			<info>Zomer Lounge</info>
+			<image>https://images.ctfassets.net/avx85g85supt/15awPnarNQt3zYuu0uJBU9/cce821bcb6a15ca73fdac570fa0005d1/logo_FC_JUKE.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPNET05.mp3</location>
+		</track>
+		<track>
+			<title>Keizerstad 80&apos;s</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://server-06.stream-server.nl:8800/;stream.mp3</location>
+		</track>
+		<track>
+			<title>KINK</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/zIZrRGGJ21z0IQvTX1y8f/9103ada224317d54e35a08f8c0ab0e2d/Kink_Logo.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3</location>
+		</track>
+		<track>
+			<title>L-FM</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/50amzmYKC76J4CtArLZzbp/9f0ac3a45dd8bb957e407cabb9c105d2/Noord_Brabant.png</image>
+			<location>http://85.214.102.86:8000/;</location>
+		</track>
+		<track>
+			<title>L1mburg</title>
+			<info>L1mburg</info>
+			<image>https://images.ctfassets.net/avx85g85supt/3Zy5XSAngSRgmPZQ4goufy/4dae3a36db68950ef582ce694ebdf8e6/Limburg.png</image>
+			<location>https://d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3</location>
+		</track>
+		<track>
+			<title>Mania-FM</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>https://music.mania-fm.nl/1</location>
+		</track>
+		<track>
+			<title>Metal Hammer</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/14oV3Ohph0UjBcrKTWC414/f71fc50cba4d40c08e095a43ed63c920/iStock-147675466.jpg</image>
+			<location>https://metal-hammer.stream.laut.fm/metal-hammer</location>
+		</track>
+		<track>
+			<title>Music Power Radio NL</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://195.242.99.243:8000/stream</location>
+		</track>
+		<track>
+			<title>Nashville FM</title>
+			<info>Non-stop country muziek hoor je op Nashville FM in JUKE!</info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>https://nashvillefm.stream-server.nl:8300/stream</location>
+		</track>
+		<track>
+			<title>News Internetradio.nl</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://mediaserv33.live-streams.nl:8042/live</location>
+		</track>
+		<track>
+			<title>NH Radio</title>
+			<info>NH Radio</info>
+			<image>https://images.ctfassets.net/avx85g85supt/2Di2J9Zbzx8xiUcD6ABBmo/fba115b9c2b4f6bb7f31f4f3f0671e03/Noord_Holland.png</image>
+			<location>https://ice.cr1.streamzilla.xlcdn.com:8000/sz%3Dnhnieuws%3DNHRadio_mp3?token=224f2824be2a3e9692b43a31f254ea40&amp;time=5e84ba29</location>
+		</track>
+		<track>
+			<title>Nicky FM</title>
+			<info>Van 538 tot radio 2. Meer dan 100 radiozenders luister je op JUKE.nl</info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>https://caster04.streampakket.com/proxy/8272/stream</location>
+		</track>
+		<track>
+			<title>NPO 3FM</title>
+			<info>3FM</info>
+			<image>https://images.ctfassets.net/avx85g85supt/2pzy2S67fCO4XxpaOtm95U/3dd8a8f69619bc81b163504d231d86e7/3FM_Logo.png</image>
+			<location>https://icecast.omroep.nl/3fm-bb-mp3</location>
+		</track>
+		<track>
+			<title>NPO Radio 1</title>
+			<info>Radio 1</info>
+			<image>https://images.ctfassets.net/avx85g85supt/2vVDnbNVW5fNlOnrrodNOr/95c88cce3b6a2934d2f005acdc46e517/NPO_Radio_1.png</image>
+			<location>https://icecast.omroep.nl/radio1-bb-mp3</location>
+		</track>
+		<track>
+			<title>NPO Radio 2</title>
+			<info>Radio 2</info>
+			<image>https://images.ctfassets.net/avx85g85supt/6OqVk7DxnOmJXDjZL0anRC/7406cd15aa7a59becc3a1dd409614d6f/NPO_Radio_2.png</image>
+			<location>https://icecast.omroep.nl/radio2-bb-mp3</location>
+		</track>
+		<track>
+			<title>NPO Radio 2 Soul &amp; Jazz</title>
+			<info>Radio 2 Soul &amp; Jazz</info>
+			<image>https://images.ctfassets.net/avx85g85supt/6OqVk7DxnOmJXDjZL0anRC/7406cd15aa7a59becc3a1dd409614d6f/NPO_Radio_2.png</image>
+			<location>https://icecast.omroep.nl/radio6-bb-mp3</location>
+		</track>
+		<track>
+			<title>NPO Radio 4</title>
+			<info>Radio 4</info>
+			<image>https://images.ctfassets.net/avx85g85supt/7MXsDzTPCsDCYiJEaDCDJL/783365440c8a942f85444da86d1a1332/NPO_Radio_4.png</image>
+			<location>https://icecast.omroep.nl/radio4-bb-mp3</location>
+		</track>
+		<track>
+			<title>NPO Radio 4 Concerten</title>
+			<info>Radio 4 Concerten</info>
+			<image>https://images.ctfassets.net/avx85g85supt/7MXsDzTPCsDCYiJEaDCDJL/783365440c8a942f85444da86d1a1332/NPO_Radio_4.png</image>
+			<location>https://icecast.omroep.nl/radio4-eigentijds-mp3</location>
+		</track>
+		<track>
+			<title>NPO Radio 5</title>
+			<info>Radio 5</info>
+			<image>https://images.ctfassets.net/avx85g85supt/12E3wIDc4p6Fk6OJQpCkp1/e6f4928401063a0a9942666523ba269a/NPO_Radio_5.png</image>
+			<location>https://icecast.omroep.nl/radio5-bb-mp3</location>
+		</track>
+		<track>
+			<title>NPO Sterren.NL</title>
+			<info>Sterren.NL</info>
+			<image>https://images.ctfassets.net/avx85g85supt/55o6U9gEyG7jmBlPml0ed7/dee9e69b23f17ff04873eae94a46c6fb/NPO_Sterren.NL_Logo.png</image>
+			<location>https://icecast.omroep.nl/radio2-sterrennl-mp3</location>
+		</track>
+		<track>
+			<title>Omroep Brabant</title>
+			<info>Omroep Brabant</info>
+			<image>https://images.ctfassets.net/avx85g85supt/50amzmYKC76J4CtArLZzbp/9f0ac3a45dd8bb957e407cabb9c105d2/Noord_Brabant.png</image>
+			<location>http://streaming.omroepbrabant.nl/mp3</location>
+		</track>
+		<track>
+			<title>Omroep Flevoland</title>
+			<info>Omroep Flevoland</info>
+			<image>https://images.ctfassets.net/avx85g85supt/5MbB3vyJNZYldm9wnuqEqH/78e082bb89e93ddf332ba8e721d55877/Juke_tiles_station_Provincie_Flevoland_square_Copy__1_.jpg</image>
+			<location>https://stream.omroepflevoland.nl/icecast/omroepflevoland/stream2</location>
+		</track>
+		<track>
+			<title>Omroep Gelderland</title>
+			<info>Omroep Gelderland</info>
+			<image>https://images.ctfassets.net/avx85g85supt/11oEXCSSuGCap46k0W8rJZ/412ebdfdeda9ceaf4d3d9dac70578442/Gelderland.png</image>
+			<location>http://web.omroepgelderland.nl/live/liveradio.pls</location>
+		</track>
+		<track>
+			<title>Omroep Súdwest</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/3PuLAmckkcBCTp93XEyy20/49e68522c0f3d7ad82a168f28255507a/Leeuwarden.png</image>
+			<location>http://icecast.streamone.net/-ZREL8eCB04y</location>
+		</track>
+		<track>
+			<title>Omroep West</title>
+			<info>Omroep West</info>
+			<image>https://images.ctfassets.net/avx85g85supt/5DynbVwpDaEvZKoXzgNp1v/0ab7ff0965d58e031271b6ef1543bfda/Zuid_Holland.png</image>
+			<location>http://icecast.stream.bbvms.com/omroepwest_radio</location>
+		</track>
+		<track>
+			<title>Omroep Zeeland</title>
+			<info>Omroep Zeeland</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1ltvclBm9d8SpwDKfnPTUy/f75506b399fb06c7c47e5e794a6383a9/Zeeland.png</image>
+			<location>http://livestream.zeelandnet.nl:8000/omroepzeeland_radio</location>
+		</track>
+		<track>
+			<title>Pinguin Aardschok</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/14oV3Ohph0UjBcrKTWC414/f71fc50cba4d40c08e095a43ed63c920/iStock-147675466.jpg</image>
+			<location>https://streams.pinguinradio.com/Aardschok192.mp3</location>
+		</track>
+		<track>
+			<title>Pinguin Blues</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/24kHiJzLigsfegmggfWRNP/2457bfafdfba5c0f46ddca879ff88e84/pinguin-radio.jpg</image>
+			<location>http://17483.live.streamtheworld.com/SP_R2406394_SC</location>
+		</track>
+		<track>
+			<title>Pinguin Classics</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/24kHiJzLigsfegmggfWRNP/2457bfafdfba5c0f46ddca879ff88e84/pinguin-radio.jpg</image>
+			<location>http://streams.pinguinradio.com/PinguinClassics192.mp3</location>
+		</track>
+		<track>
+			<title>Pinguin Indie</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/24kHiJzLigsfegmggfWRNP/2457bfafdfba5c0f46ddca879ff88e84/pinguin-radio.jpg</image>
+			<location>http://streams.pinguinradio.com/PinguinRadio320.mp3</location>
+		</track>
+		<track>
+			<title>Pinguin On the Rocks</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/24kHiJzLigsfegmggfWRNP/2457bfafdfba5c0f46ddca879ff88e84/pinguin-radio.jpg</image>
+			<location>http://streams.pinguinradio.com/PinguinOnTheRocks192.mp3</location>
+		</track>
+		<track>
+			<title>Pinguin Pop</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/24kHiJzLigsfegmggfWRNP/2457bfafdfba5c0f46ddca879ff88e84/pinguin-radio.jpg</image>
+			<location>http://streams.pinguinradio.com/PinguinPop192.mp3</location>
+		</track>
+		<track>
+			<title>Polderpop Radio</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/50amzmYKC76J4CtArLZzbp/9f0ac3a45dd8bb957e407cabb9c105d2/Noord_Brabant.png</image>
+			<location>http://78.129.193.27:33957/:stream.mp3</location>
+		</track>
+		<track>
+			<title>Pure 24</title>
+			<info>Pure 24 luister je in JUKE</info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>https://c16.radioboss.fm:18209/stream</location>
+		</track>
+		<track>
+			<title>Q-Dance</title>
+			<info>Q-Dance</info>
+			<image>https://images.ctfassets.net/avx85g85supt/2HZW4qrbBBk4iywwu7kWeN/f3d911d14ca3546445db72b91f54d171/Juke_tiles_station_Q-dance.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCE.mp3</location>
+		</track>
+		<track>
+			<title>Qmusic Het Foute Uur</title>
+			<info>Het Foute Uur</info>
+			<image>https://images.ctfassets.net/avx85g85supt/3hAvCI8mTl63lzFHJI2DAF/175be0aba88e54e8124eecb6612a5fcc/QMusic_Logo.png</image>
+			<location>https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_64.aac</location>
+		</track>
+		<track>
+			<title>Qmusic Limburg</title>
+			<info>Limburg</info>
+			<image>https://images.ctfassets.net/avx85g85supt/3hAvCI8mTl63lzFHJI2DAF/175be0aba88e54e8124eecb6612a5fcc/QMusic_Logo.png</image>
+			<location>https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_qlmb_64.aac</location>
+		</track>
+		<track>
+			<title>Qmusic Non-stop</title>
+			<info>Non-stop</info>
+			<image>https://images.ctfassets.net/avx85g85supt/3hAvCI8mTl63lzFHJI2DAF/175be0aba88e54e8124eecb6612a5fcc/QMusic_Logo.png</image>
+			<location>https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop_64.aac</location>
+		</track>
+		<track>
+			<title>Qmusic Summer</title>
+			<info>Summer</info>
+			<image>https://images.ctfassets.net/avx85g85supt/3hAvCI8mTl63lzFHJI2DAF/175be0aba88e54e8124eecb6612a5fcc/QMusic_Logo.png</image>
+			<location>https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_classics_64.aac</location>
+		</track>
+		<track>
+			<title>Qmusic Top 40</title>
+			<info>Top 40</info>
+			<image>https://images.ctfassets.net/avx85g85supt/3hAvCI8mTl63lzFHJI2DAF/175be0aba88e54e8124eecb6612a5fcc/QMusic_Logo.png</image>
+			<location>https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop40_64.aac</location>
+		</track>
+		<track>
+			<title>Radio 10</title>
+			<info>Radio 10 en alle Radio 10 themazenders luister je in JUKE. Luister naar de radioshows van Gerard Ekdom, Edwin Diergaarde, Jeroen Nieuwenhuize, Rob van Someren of Lex Gaarthuis.</info>
+			<image>https://images.ctfassets.net/avx85g85supt/M0F7K8CN2610nMriLuynw/6f62c5be04f3c4cff920648741f4a423/logo_RGB.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10AAC.aac</location>
+		</track>
+		<track>
+			<title>Radio 10 00&apos;s Hits</title>
+			<info>00&apos;s Hits</info>
+			<image>https://images.ctfassets.net/avx85g85supt/M0F7K8CN2610nMriLuynw/6f62c5be04f3c4cff920648741f4a423/logo_RGB.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR03.mp3</location>
+		</track>
+		<track>
+			<title>Radio 10 60&apos;s &amp; 70&apos;s Hits</title>
+			<info>60&apos;s &amp; 70&apos;s Hits</info>
+			<image>https://images.ctfassets.net/avx85g85supt/M0F7K8CN2610nMriLuynw/6f62c5be04f3c4cff920648741f4a423/logo_RGB.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3</location>
+		</track>
+		<track>
+			<title>Radio 10 80&apos;s Hits</title>
+			<info>80&apos;s Hits</info>
+			<image>https://images.ctfassets.net/avx85g85supt/M0F7K8CN2610nMriLuynw/6f62c5be04f3c4cff920648741f4a423/logo_RGB.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20.mp3</location>
+		</track>
+		<track>
+			<title>Radio 10 90&apos;s hits</title>
+			<info>90&apos;s Hits</info>
+			<image>https://images.ctfassets.net/avx85g85supt/M0F7K8CN2610nMriLuynw/6f62c5be04f3c4cff920648741f4a423/logo_RGB.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR22.mp3</location>
+		</track>
+		<track>
+			<title>Radio 10 Disco Classics</title>
+			<info>Disco Classics</info>
+			<image>https://images.ctfassets.net/avx85g85supt/M0F7K8CN2610nMriLuynw/6f62c5be04f3c4cff920648741f4a423/logo_RGB.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR23.mp3</location>
+		</track>
+		<track>
+			<title>Radio 10 Guilty Pleasures</title>
+			<info>Guilty Pleasures</info>
+			<image>https://images.ctfassets.net/avx85g85supt/M0F7K8CN2610nMriLuynw/6f62c5be04f3c4cff920648741f4a423/logo_RGB.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR12.mp3</location>
+		</track>
+		<track>
+			<title>Radio 10 Love Songs</title>
+			<info>Love Songs</info>
+			<image>https://images.ctfassets.net/avx85g85supt/M0F7K8CN2610nMriLuynw/6f62c5be04f3c4cff920648741f4a423/logo_RGB.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR04.mp3</location>
+		</track>
+		<track>
+			<title>Radio 10 Non-stop</title>
+			<info>Non-stop</info>
+			<image>https://images.ctfassets.net/avx85g85supt/M0F7K8CN2610nMriLuynw/6f62c5be04f3c4cff920648741f4a423/logo_RGB.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15.mp3</location>
+		</track>
+		<track>
+			<title>Radio 10 Soul</title>
+			<info>Soul</info>
+			<image>https://images.ctfassets.net/avx85g85supt/M0F7K8CN2610nMriLuynw/6f62c5be04f3c4cff920648741f4a423/logo_RGB.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR02.mp3</location>
+		</track>
+		<track>
+			<title>Radio 10 Top 4000</title>
+			<info>Top 4000</info>
+			<image>https://images.ctfassets.net/avx85g85supt/M0F7K8CN2610nMriLuynw/6f62c5be04f3c4cff920648741f4a423/logo_RGB.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR24.mp3</location>
+		</track>
+		<track>
+			<title>Radio 1224</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://server-27.stream-server.nl:8518/stream</location>
+		</track>
+		<track>
+			<title>Radio 538</title>
+			<info>Radio 538 luister je in JUKE!</info>
+			<image>https://images.ctfassets.net/avx85g85supt/6YyYUrjwjml1opZqWjyycr/556babec3696bfad13710ed7822190df/radio_538.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3</location>
+		</track>
+		<track>
+			<title>Radio 538 Dance Department</title>
+			<info>Dance Dept.</info>
+			<image>https://images.ctfassets.net/avx85g85supt/6YyYUrjwjml1opZqWjyycr/556babec3696bfad13710ed7822190df/radio_538.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3</location>
+		</track>
+		<track>
+			<title>Radio 538 Drops</title>
+			<info>Drops</info>
+			<image>https://images.ctfassets.net/avx85g85supt/6YyYUrjwjml1opZqWjyycr/556babec3696bfad13710ed7822190df/radio_538.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3</location>
+		</track>
+		<track>
+			<title>Radio 538 Hitzone</title>
+			<info>Hitzone</info>
+			<image>https://images.ctfassets.net/avx85g85supt/6YyYUrjwjml1opZqWjyycr/556babec3696bfad13710ed7822190df/radio_538.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3</location>
+		</track>
+		<track>
+			<title>Radio 538 Ibiza </title>
+			<info>Ibiza</info>
+			<image>https://images.ctfassets.net/avx85g85supt/6YyYUrjwjml1opZqWjyycr/556babec3696bfad13710ed7822190df/radio_538.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19.mp3</location>
+		</track>
+		<track>
+			<title>Radio 538 Non-stop</title>
+			<info>Non-stop</info>
+			<image>https://images.ctfassets.net/avx85g85supt/6YyYUrjwjml1opZqWjyycr/556babec3696bfad13710ed7822190df/radio_538.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3</location>
+		</track>
+		<track>
+			<title>Radio 538 Party</title>
+			<info>Party</info>
+			<image>https://images.ctfassets.net/avx85g85supt/6YyYUrjwjml1opZqWjyycr/556babec3696bfad13710ed7822190df/radio_538.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3</location>
+		</track>
+		<track>
+			<title>Radio 538 Top 50</title>
+			<info>Top 50</info>
+			<image>https://images.ctfassets.net/avx85g85supt/6YyYUrjwjml1opZqWjyycr/556babec3696bfad13710ed7822190df/radio_538.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13.mp3</location>
+		</track>
+		<track>
+			<title>Radio 538 Verrückte Stunde</title>
+			<info>Verrückte Stunde</info>
+			<image>https://images.ctfassets.net/avx85g85supt/6YyYUrjwjml1opZqWjyycr/556babec3696bfad13710ed7822190df/radio_538.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3</location>
+		</track>
+		<track>
+			<title>Radio 538 Zomer</title>
+			<info>Zomer</info>
+			<image>https://images.ctfassets.net/avx85g85supt/6YyYUrjwjml1opZqWjyycr/556babec3696bfad13710ed7822190df/radio_538.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR06.mp3</location>
+		</track>
+		<track>
+			<title>Radio 8FM</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://8fm.live-streams.nl/mp3-denbosch</location>
+		</track>
+		<track>
+			<title>Radio Caprice: Death Metal</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/37Hc7jTP76Ueo1WxXU1Vs2/faaadcd0049f6d4904f82fde7f65b9fd/iStock-450516801.jpg</image>
+			<location>http://79.120.77.11:8002/deathmetal</location>
+		</track>
+		<track>
+			<title>Radio City</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/5DynbVwpDaEvZKoXzgNp1v/0ab7ff0965d58e031271b6ef1543bfda/Zuid_Holland.png</image>
+			<location>http://94.228.133.6:8381/stream/1/</location>
+		</track>
+		<track>
+			<title>Radio Continu</title>
+			<info>Ook Lokale en Regionale zenders vind je op JUKE. Radio Continu luister je online op JUKE.nl</info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://stream.radiocontinu.nl/radiocontinu</location>
+		</track>
+		<track>
+			<title>Radio Decibel</title>
+			<info>Radio Decibel</info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://stream.nlradio.nl/decibelzh</location>
+		</track>
+		<track>
+			<title>Radio Emmeloord</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/5MbB3vyJNZYldm9wnuqEqH/78e082bb89e93ddf332ba8e721d55877/Juke_tiles_station_Provincie_Flevoland_square_Copy__1_.jpg</image>
+			<location>http://81.204.18.78:8080/live</location>
+		</track>
+		<track>
+			<title>Radio Erasmus Rotterdam</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/5DynbVwpDaEvZKoXzgNp1v/0ab7ff0965d58e031271b6ef1543bfda/Zuid_Holland.png</image>
+			<location>https://caster04.streampakket.com/proxy/8636/stream</location>
+		</track>
+		<track>
+			<title>Radio Esperando</title>
+			<info>Van 538 tot radio 2. Meer dan 100 radiozenders luister je op JUKE.nl</info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://server-66.stream-server.nl:8838/</location>
+		</track>
+		<track>
+			<title>Radio Israël</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://media01.streampartner.nl:8000/stream</location>
+		</track>
+		<track>
+			<title>Radio JND</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>https://stream.radiojnd.nl/radiojnd.mp3</location>
+		</track>
+		<track>
+			<title>Radio M Utrecht</title>
+			<info>Radio M Utrecht</info>
+			<image>https://images.ctfassets.net/avx85g85supt/60KtHhrOq7FxuRL3BOzVjj/4a67ea60b04f5f6c01672e469ce38c83/Juke_tiles_station_Provincie_Utrecht.jpg</image>
+			<location>https://media.rtvutrecht.nl/radiomutrecht-sb-mp3	</location>
+		</track>
+		<track>
+			<title>Radio ROKS</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/eFHcG4YcrtKPwdhGU3kAL/3e5134a4a5230e1df58bb7dc1a8560e1/iStock-828105816.jpg</image>
+			<location>http://online-radioroks.tavrmedia.ua/RadioROKS</location>
+		</track>
+		<track>
+			<title>Radio Stad Den Haag</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/5DynbVwpDaEvZKoXzgNp1v/0ab7ff0965d58e031271b6ef1543bfda/Zuid_Holland.png</image>
+			<location>https://stream.radiostaddenhaag.com/stream/1/</location>
+		</track>
+		<track>
+			<title>Radio Veronica</title>
+			<info>Luister nu naar Radio Veronica. De beste pop- en rockhits van de grootste legends hoor je op Radio Veronica in JUKE! Met de beste radiodj&apos;s, bestaande uit o.a. Wilfred Genee en Giel Beelen brengt Radio Veronica muziek, actualiteit en entertainment voor elk moment.</info>
+			<image>https://images.ctfassets.net/avx85g85supt/45yELZRzanMNFgO7AfoeR9/766b6883de3fb5a418138e874dd0a350/Veronicatvlogo.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3</location>
+		</track>
+		<track>
+			<title>Radio Veronica Album Top 500 Allertijden</title>
+			<info>Album Top 500 Allertijden</info>
+			<image>https://images.ctfassets.net/avx85g85supt/45yELZRzanMNFgO7AfoeR9/766b6883de3fb5a418138e874dd0a350/Veronicatvlogo.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR13.mp3</location>
+		</track>
+		<track>
+			<title>Radio Veronica AlternativeXL</title>
+			<info>Alternative XL</info>
+			<image>https://images.ctfassets.net/avx85g85supt/45yELZRzanMNFgO7AfoeR9/766b6883de3fb5a418138e874dd0a350/Veronicatvlogo.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR12.mp3</location>
+		</track>
+		<track>
+			<title>Radio Veronica Epic 80’s</title>
+			<info>Epic 80’s</info>
+			<image>https://images.ctfassets.net/avx85g85supt/45yELZRzanMNFgO7AfoeR9/766b6883de3fb5a418138e874dd0a350/Veronicatvlogo.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR17.mp3</location>
+		</track>
+		<track>
+			<title>Radio Veronica Legends</title>
+			<info>Legends</info>
+			<image>https://images.ctfassets.net/avx85g85supt/45yELZRzanMNFgO7AfoeR9/766b6883de3fb5a418138e874dd0a350/Veronicatvlogo.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR14.mp3</location>
+		</track>
+		<track>
+			<title>Radio Veronica Non-stop</title>
+			<info>Non-stop</info>
+			<image>https://images.ctfassets.net/avx85g85supt/45yELZRzanMNFgO7AfoeR9/766b6883de3fb5a418138e874dd0a350/Veronicatvlogo.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR09.mp3</location>
+		</track>
+		<track>
+			<title>Radio Veronica Rockradio</title>
+			<info>Rockradio</info>
+			<image>https://images.ctfassets.net/avx85g85supt/45yELZRzanMNFgO7AfoeR9/766b6883de3fb5a418138e874dd0a350/Veronicatvlogo.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR11.mp3</location>
+		</track>
+		<track>
+			<title>Radio Veronica Top 1000 Allertijden</title>
+			<info>Top 1000 Allertijden</info>
+			<image>https://images.ctfassets.net/avx85g85supt/45yELZRzanMNFgO7AfoeR9/766b6883de3fb5a418138e874dd0a350/Veronicatvlogo.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR10.mp3</location>
+		</track>
+		<track>
+			<title>Radio Viva</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>https://cast.thuishosting.nl:1785/stream</location>
+		</track>
+		<track>
+			<title>Radio Zilverster</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://176.31.224.21:8732/;</location>
+		</track>
+		<track>
+			<title>RadioNL</title>
+			<info>RadioNL luister je in JUKE</info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>https://stream.radionl.fm/radionl</location>
+		</track>
+		<track>
+			<title>Red Light Radio</title>
+			<info>Red Light Radio</info>
+			<image>https://images.ctfassets.net/avx85g85supt/2Di2J9Zbzx8xiUcD6ABBmo/fba115b9c2b4f6bb7f31f4f3f0671e03/Noord_Holland.png</image>
+			<location>http://www.michielgardner.nl:8000/redlightradio</location>
+		</track>
+		<track>
+			<title>RoundandSound Radio</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://stream.roundandsound.nl/1</location>
+		</track>
+		<track>
+			<title>RTL Weinachtsradio</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/1diK3LyqjGJpRzVJ4fh9Yg/28097686608bf14f77554cc672c9e5a6/SkyRadio_christmas_header.png</image>
+			<location>http://stream.rtlradio.de/rtl-de-event01/mp3-128</location>
+		</track>
+		<track>
+			<title>RTV Drenthe</title>
+			<info>RTV Drenthe</info>
+			<image>https://images.ctfassets.net/avx85g85supt/5lyUQGZsvNHszveVOKDYqZ/1385833fc224992752bf3e85d7b01d43/Juke_tiles_station_Provincie_Drenthe.jpg</image>
+			<location>https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio</location>
+		</track>
+		<track>
+			<title>RTV Noord</title>
+			<info>RTV Noord</info>
+			<image>https://images.ctfassets.net/avx85g85supt/2Di2J9Zbzx8xiUcD6ABBmo/fba115b9c2b4f6bb7f31f4f3f0671e03/Noord_Holland.png</image>
+			<location>https://media.rtvnoord.nl/icecast/rtvnoord/radio?.mp3</location>
+		</track>
+		<track>
+			<title>RTV Oost</title>
+			<info>RTV Oost</info>
+			<image>https://images.ctfassets.net/avx85g85supt/2o5QCT5G5UDpq091VbZYMx/75dcc20d1fc771eb632496cc24aa9318/Overijssel.png</image>
+			<location>http://mediacdn.rtvoost.nl/icecast/rtvoost/radio-oost-mp3</location>
+		</track>
+		<track>
+			<title>RTV Rijnmond</title>
+			<info>RTV Rijnmond</info>
+			<image>https://images.ctfassets.net/avx85g85supt/5DynbVwpDaEvZKoXzgNp1v/0ab7ff0965d58e031271b6ef1543bfda/Zuid_Holland.png</image>
+			<location>https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3</location>
+		</track>
+		<track>
+			<title>SHOUT OUT</title>
+			<info>Dit is… Een SHOUT OUT naar de YouTubers, influencers en experts die jij kent en volgt. </info>
+			<image>https://images.ctfassets.net/avx85g85supt/4IFSjMmH3J5DTaPV8ecys5/48e260028cc866bb3438ac858af886a2/SO-Violet-RGB.png</image>
+			<location>https://21273.live.streamtheworld.com/TLPSTR14.mp3</location>
+		</track>
+		<track>
+			<title>Simone FM</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>https://stream.simone.nl/simone</location>
+		</track>
+		<track>
+			<title>Sky Radio</title>
+			<info>Sky Radio en alle themazenders luister je in JUKE. Ontdek non-stop radio en alle Sky Radio themazenders als Hits, Summerhits, Lovesongs, Feel Good Hits en meer.</info>
+			<image>https://images.ctfassets.net/avx85g85supt/z3V3h3hPYdr3vQsj8zxcS/b6dc8836e2ef56cb19bb107362144880/skyradio_logo_2019.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3</location>
+		</track>
+		<track>
+			<title>Sky Radio 00’s Hits</title>
+			<info>00’s Hits</info>
+			<image>https://images.ctfassets.net/avx85g85supt/z3V3h3hPYdr3vQsj8zxcS/b6dc8836e2ef56cb19bb107362144880/skyradio_logo_2019.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR06.mp3</location>
+		</track>
+		<track>
+			<title>Sky Radio 10’s Hits</title>
+			<info>10’s Hits</info>
+			<image>https://images.ctfassets.net/avx85g85supt/z3V3h3hPYdr3vQsj8zxcS/b6dc8836e2ef56cb19bb107362144880/skyradio_logo_2019.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR19.mp3</location>
+		</track>
+		<track>
+			<title>Sky Radio 80’s Hits</title>
+			<info>80’s Hits</info>
+			<image>https://images.ctfassets.net/avx85g85supt/z3V3h3hPYdr3vQsj8zxcS/b6dc8836e2ef56cb19bb107362144880/skyradio_logo_2019.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3</location>
+		</track>
+		<track>
+			<title>Sky Radio 90’s Hits</title>
+			<info>90’s Hits</info>
+			<image>https://images.ctfassets.net/avx85g85supt/z3V3h3hPYdr3vQsj8zxcS/b6dc8836e2ef56cb19bb107362144880/skyradio_logo_2019.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR05.mp3</location>
+		</track>
+		<track>
+			<title>Sky Radio Christmas</title>
+			<info>Christmas</info>
+			<image>https://images.ctfassets.net/avx85g85supt/z3V3h3hPYdr3vQsj8zxcS/b6dc8836e2ef56cb19bb107362144880/skyradio_logo_2019.png</image>
+			<location>https://20073.live.streamtheworld.com/SRGSTR08.mp3</location>
+		</track>
+		<track>
+			<title>Sky Radio Feel Good Hits</title>
+			<info>Feel Good Hits</info>
+			<image>https://images.ctfassets.net/avx85g85supt/z3V3h3hPYdr3vQsj8zxcS/b6dc8836e2ef56cb19bb107362144880/skyradio_logo_2019.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR20.mp3</location>
+		</track>
+		<track>
+			<title>Sky Radio Hits</title>
+			<info>Hits</info>
+			<image>https://images.ctfassets.net/avx85g85supt/z3V3h3hPYdr3vQsj8zxcS/b6dc8836e2ef56cb19bb107362144880/skyradio_logo_2019.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3</location>
+		</track>
+		<track>
+			<title>Sky Radio Lounge</title>
+			<info>Lounge</info>
+			<image>https://images.ctfassets.net/avx85g85supt/z3V3h3hPYdr3vQsj8zxcS/b6dc8836e2ef56cb19bb107362144880/skyradio_logo_2019.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR07.mp3</location>
+		</track>
+		<track>
+			<title>Sky Radio Lovesongs</title>
+			<info>Lovesongs</info>
+			<image>https://images.ctfassets.net/avx85g85supt/z3V3h3hPYdr3vQsj8zxcS/b6dc8836e2ef56cb19bb107362144880/skyradio_logo_2019.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR03.mp3</location>
+		</track>
+		<track>
+			<title>Sky Radio Non-stop@Work</title>
+			<info>Non-stop@Work</info>
+			<image>https://images.ctfassets.net/avx85g85supt/z3V3h3hPYdr3vQsj8zxcS/b6dc8836e2ef56cb19bb107362144880/skyradio_logo_2019.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR24.mp3</location>
+		</track>
+		<track>
+			<title>Sky Radio Singer Songwriter</title>
+			<info>Singer Songwriter</info>
+			<image>https://images.ctfassets.net/avx85g85supt/z3V3h3hPYdr3vQsj8zxcS/b6dc8836e2ef56cb19bb107362144880/skyradio_logo_2019.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR16.mp3</location>
+		</track>
+		<track>
+			<title>Sky Radio Smooth Hits</title>
+			<info>Smooth Hits</info>
+			<image>https://images.ctfassets.net/avx85g85supt/z3V3h3hPYdr3vQsj8zxcS/b6dc8836e2ef56cb19bb107362144880/skyradio_logo_2019.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR15.mp3</location>
+		</track>
+		<track>
+			<title>Sky Radio Summer Hits</title>
+			<info>Summer Hits</info>
+			<image>https://images.ctfassets.net/avx85g85supt/z3V3h3hPYdr3vQsj8zxcS/b6dc8836e2ef56cb19bb107362144880/skyradio_logo_2019.png</image>
+			<location>http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR02.mp3</location>
+		</track>
+		<track>
+			<title>Sky Radio Valentijn Greatest Hits</title>
+			<info>Valentijn Greatest Hits</info>
+			<image>https://images.ctfassets.net/avx85g85supt/z3V3h3hPYdr3vQsj8zxcS/b6dc8836e2ef56cb19bb107362144880/skyradio_logo_2019.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR18</location>
+		</track>
+		<track>
+			<title>SLAM!</title>
+			<info>SLAM! en alle SLAM! themazenders luister je in JUKE. Met SLAM! luister je naar de beste dance, house, techno en hardstyle muziek.  </info>
+			<image>https://images.ctfassets.net/avx85g85supt/1178KpmN4Usdnu88QNN6Mp/0cfa06fcb5bd74b1ae6624620ce7a1b1/logo_FC_SLAM.png</image>
+			<location>https://20723.live.streamtheworld.com/SLAM_AAC_SC</location>
+		</track>
+		<track>
+			<title>SLAM! 40</title>
+			<info>SLAM! 40</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1178KpmN4Usdnu88QNN6Mp/0cfa06fcb5bd74b1ae6624620ce7a1b1/logo_FC_SLAM.png</image>
+			<location>http://stream.radiocorp.nl/web14_aac</location>
+		</track>
+		<track>
+			<title>SLAM! Dance1000</title>
+			<info>Dance1000</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1178KpmN4Usdnu88QNN6Mp/0cfa06fcb5bd74b1ae6624620ce7a1b1/logo_FC_SLAM.png</image>
+			<location>https://stream.slam.nl/web15_mp3</location>
+		</track>
+		<track>
+			<title>SLAM! Hardstyle</title>
+			<info>Hardstyle</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1178KpmN4Usdnu88QNN6Mp/0cfa06fcb5bd74b1ae6624620ce7a1b1/logo_FC_SLAM.png</image>
+			<location>https://streaming.slam.nl/web11_mp3</location>
+		</track>
+		<track>
+			<title>SLAM! Housuh in de Pauzuh</title>
+			<info>Housuh in de Pauzuh</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1178KpmN4Usdnu88QNN6Mp/0cfa06fcb5bd74b1ae6624620ce7a1b1/logo_FC_SLAM.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/WEB16_MP3.mp3</location>
+		</track>
+		<track>
+			<title>SLAM! Juize</title>
+			<info>Juize</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1178KpmN4Usdnu88QNN6Mp/0cfa06fcb5bd74b1ae6624620ce7a1b1/logo_FC_SLAM.png</image>
+			<location>https://stream.radiocorp.nl/web09_mp3</location>
+		</track>
+		<track>
+			<title>SLAM! MixMarathon</title>
+			<info>MixMarathon</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1178KpmN4Usdnu88QNN6Mp/0cfa06fcb5bd74b1ae6624620ce7a1b1/logo_FC_SLAM.png</image>
+			<location>https://stream.slam.nl/web13_mp3</location>
+		</track>
+		<track>
+			<title>SLAM! Non-stop</title>
+			<info>Non-stop</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1178KpmN4Usdnu88QNN6Mp/0cfa06fcb5bd74b1ae6624620ce7a1b1/logo_FC_SLAM.png</image>
+			<location>https://stream.radiocorp.nl/web10_mp3</location>
+		</track>
+		<track>
+			<title>SLAM! The Boom Room</title>
+			<info>The Boom Room</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1178KpmN4Usdnu88QNN6Mp/0cfa06fcb5bd74b1ae6624620ce7a1b1/logo_FC_SLAM.png</image>
+			<location>https://stream.radiocorp.nl/web12_mp3</location>
+		</track>
+		<track>
+			<title>Soul Radio</title>
+			<info>Soul Radio</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1QVNxGC3UF7QavshM5i7l1/3f32e639d29dea9d3a8d51174c3b4576/Juke_tiles_station_Soul_Radio.png</image>
+			<location>http://playerservices.streamtheworld.com/api/livestream-redirect/SOULRADIOAAC.aac</location>
+		</track>
+		<track>
+			<title>Soulshow Radio</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://icecast-soulshow.cdp.triple-it.nl/soulshow_128.mp3</location>
+		</track>
+		<track>
+			<title>Sterradio</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>https://caster05.streampakket.com/proxy/9098/stream</location>
+		</track>
+		<track>
+			<title>Sublime</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/1xJi7ygS5MoocZzFLxroc7/d06a1eadfcfeed010fb55b20cee24c04/Logo-Sublime-FM-Zwart.png</image>
+			<location>http://stream.sublimefm.nl/SublimeFM_aac</location>
+		</track>
+		<track>
+			<title>Sublime 500</title>
+			<info>Sublime 500</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1xJi7ygS5MoocZzFLxroc7/d06a1eadfcfeed010fb55b20cee24c04/Logo-Sublime-FM-Zwart.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME500.mp3?dist=juke</location>
+		</track>
+		<track>
+			<title>Sublime Arrow Jazz FM</title>
+			<info>Arrow Jazz</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1xJi7ygS5MoocZzFLxroc7/d06a1eadfcfeed010fb55b20cee24c04/Logo-Sublime-FM-Zwart.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIMEARROWJAZZ.mp3?dist=juke</location>
+		</track>
+		<track>
+			<title>Sublime Pure Jazz</title>
+			<info>Pure Jazz</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1xJi7ygS5MoocZzFLxroc7/d06a1eadfcfeed010fb55b20cee24c04/Logo-Sublime-FM-Zwart.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIMEPUREJAZZ.MP3?dist=juke</location>
+		</track>
+		<track>
+			<title>Sublime Smooth</title>
+			<info>Smooth</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1xJi7ygS5MoocZzFLxroc7/d06a1eadfcfeed010fb55b20cee24c04/Logo-Sublime-FM-Zwart.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIMESMOOTH.mp3?dist=juke</location>
+		</track>
+		<track>
+			<title>Sublime Soul</title>
+			<info>Soul</info>
+			<image>https://images.ctfassets.net/avx85g85supt/1xJi7ygS5MoocZzFLxroc7/d06a1eadfcfeed010fb55b20cee24c04/Logo-Sublime-FM-Zwart.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIMESOUL.MP3?dist=juke</location>
+		</track>
+		<track>
+			<title>Team FM Drenthe &amp; Groningen</title>
+			<info>Team FM Drenthe &amp; Groningen</info>
+			<image>https://images.ctfassets.net/avx85g85supt/5lyUQGZsvNHszveVOKDYqZ/1385833fc224992752bf3e85d7b01d43/Juke_tiles_station_Provincie_Drenthe.jpg</image>
+			<location>http://audiostreamen.nl/drenthe</location>
+		</track>
+		<track>
+			<title>Team FM Friesland</title>
+			<info>Team FM Friesland</info>
+			<image>https://images.ctfassets.net/avx85g85supt/3PuLAmckkcBCTp93XEyy20/49e68522c0f3d7ad82a168f28255507a/Leeuwarden.png</image>
+			<location>http://audiostreamen.nl/friesland</location>
+		</track>
+		<track>
+			<title>Team FM Overijssel</title>
+			<info>Team FM Overijssel</info>
+			<image>https://images.ctfassets.net/avx85g85supt/2o5QCT5G5UDpq091VbZYMx/75dcc20d1fc771eb632496cc24aa9318/Overijssel.png</image>
+			<location>http://audiostreamen.nl/overijssel</location>
+		</track>
+		<track>
+			<title>Team FM Twente</title>
+			<info>Team FM Twente</info>
+			<image>https://images.ctfassets.net/avx85g85supt/2o5QCT5G5UDpq091VbZYMx/75dcc20d1fc771eb632496cc24aa9318/Overijssel.png</image>
+			<location>http://audiostreamen.nl/twente</location>
+		</track>
+		<track>
+			<title>Vandaag Radio</title>
+			<info>Vandaag Radio</info>
+			<image>https://images.ctfassets.net/avx85g85supt/11oEXCSSuGCap46k0W8rJZ/412ebdfdeda9ceaf4d3d9dac70578442/Gelderland.png</image>
+			<location>http://mscp2.live-streams.nl:8090/radio</location>
+		</track>
+		<track>
+			<title>Veluwe Centraal</title>
+			<info>Veluwe Centraal</info>
+			<image>https://images.ctfassets.net/avx85g85supt/11oEXCSSuGCap46k0W8rJZ/412ebdfdeda9ceaf4d3d9dac70578442/Gelderland.png</image>
+			<location>http://server-28.stream-server.nl:8836/stream</location>
+		</track>
+		<track>
+			<title>VRT Ketnet Hits</title>
+			<info>Ketnet Hits</info>
+			<image>https://images.ctfassets.net/avx85g85supt/5g2gaHApUzGlsJAGv0R1yv/0fb9674cbe4017df9c92e1298f0fa665/VRT_Ketnet.jpg</image>
+			<location>http://icecast.vrtcdn.be/ketnetradio-high.mp3</location>
+		</track>
+		<track>
+			<title>VRT Klara</title>
+			<info>Klara</info>
+			<image>https://images.ctfassets.net/avx85g85supt/5PUCw4s77eYeiiaW1acmNH/a1ec3166926086a668bc17541cb3fd69/VRT_Klara.jpg</image>
+			<location>http://icecast.vrtcdn.be/klara-high.mp3</location>
+		</track>
+		<track>
+			<title>VRT Klara Continuo</title>
+			<info>Klara Continuo</info>
+			<image>https://images.ctfassets.net/avx85g85supt/5PUCw4s77eYeiiaW1acmNH/a1ec3166926086a668bc17541cb3fd69/VRT_Klara.jpg</image>
+			<location>http://icecast.vrtcdn.be/klaracontinuo-high.mp3</location>
+		</track>
+		<track>
+			<title>VRT MNM</title>
+			<info>MNM</info>
+			<image>https://images.ctfassets.net/avx85g85supt/6MuFvv4OwClOFE3Fekkigt/b4e96b821aa3c08dd93881e59f206725/VRT_MNM.jpg</image>
+			<location>http://icecast.vrtcdn.be/mnm-high.mp3</location>
+		</track>
+		<track>
+			<title>VRT MNM Hits</title>
+			<info>MNM Hits</info>
+			<image>https://images.ctfassets.net/avx85g85supt/6MuFvv4OwClOFE3Fekkigt/b4e96b821aa3c08dd93881e59f206725/VRT_MNM.jpg</image>
+			<location>http://icecast.vrtcdn.be/mnm_hits-high.mp3</location>
+		</track>
+		<track>
+			<title>VRT MNM Urbanice</title>
+			<info>MNM Urbanice</info>
+			<image>https://images.ctfassets.net/avx85g85supt/7JaaLJYRx88kXrKAoJdORg/23fe5ff663a83a2dd66d13e23ff1cbe0/VRT_MNM_Urbanice.jpg</image>
+			<location>http://icecast.vrtcdn.be/mnm_urb-high.mp3</location>
+		</track>
+		<track>
+			<title>VRT NWS</title>
+			<info>NWS</info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>https://progressive-audio.lwc.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3</location>
+		</track>
+		<track>
+			<title>VRT Radio 1</title>
+			<info>Radio 1</info>
+			<image>https://images.ctfassets.net/avx85g85supt/497S9oyVBe2DrQVQwcns6Y/b478d14283312ccb087840a1d44950d7/Juke_tiles_station_VRT.png</image>
+			<location>http://icecast.vrtcdn.be/radio1-high.mp3</location>
+		</track>
+		<track>
+			<title>VRT Radio 2</title>
+			<info>Radio 2</info>
+			<image>https://images.ctfassets.net/avx85g85supt/497S9oyVBe2DrQVQwcns6Y/b478d14283312ccb087840a1d44950d7/Juke_tiles_station_VRT.png</image>
+			<location>http://icecast.vrtcdn.be/ra2lim-high.mp3</location>
+		</track>
+		<track>
+			<title>VRT Studio Brussel</title>
+			<info>StuBru</info>
+			<image>https://images.ctfassets.net/avx85g85supt/497S9oyVBe2DrQVQwcns6Y/b478d14283312ccb087840a1d44950d7/Juke_tiles_station_VRT.png</image>
+			<location>http://icecast.vrtcdn.be/stubru-high.mp3</location>
+		</track>
+		<track>
+			<title>Wereldstad Radio Rotterdam</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/5DynbVwpDaEvZKoXzgNp1v/0ab7ff0965d58e031271b6ef1543bfda/Zuid_Holland.png</image>
+			<location>http://5.9.120.250:8061/stream</location>
+		</track>
+		<track>
+			<title>XM Radio</title>
+			<info>XM Radio</info>
+			<image>https://images.ctfassets.net/avx85g85supt/3vwmFZIxRRZ1nIVVhg70py/8c8cd9fca9f998fec727f9ccc1e4810c/Juke_tiles_station_XM_Radio.png</image>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR17.mp3</location>
+		</track>
+		<track>
+			<title>Your Choice Radio</title>
+			<info></info>
+			<image>https://images.ctfassets.net/avx85g85supt/36Jx0ew84SQsMSzHzulMCo/7446948545dae3e6124e5727c975d7f9/Internet_radio.png</image>
+			<location>http://94.23.148.11:8374/stream</location>
+		</track>
+	</trackList>
+</playlist>
